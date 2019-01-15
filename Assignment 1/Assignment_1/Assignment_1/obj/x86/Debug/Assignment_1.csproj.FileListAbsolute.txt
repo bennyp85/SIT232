@@ -1,0 +1,6 @@
+/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.csprojResolveAssemblyReference.cache
+/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 1/Assignment_1/Assignment_1/bin/Debug/Assignment_1.exe
+/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 1/Assignment_1/Assignment_1/bin/Debug/Assignment_1.pdb
+/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.exe
+/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.pdb
