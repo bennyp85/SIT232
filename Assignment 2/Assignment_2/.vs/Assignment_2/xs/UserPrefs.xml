@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5141A2F5-F106-43E7-88F4-857552B4E661}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment_2/Menus.cs">
+    <Files>
+      <File FileName="Assignment_2/Program.cs" Line="93" Column="13" />
+      <File FileName="Assignment_2/Menus.cs" Line="249" Column="21" />
+      <File FileName="Assignment_2/Validation.cs" Line="45" Column="1" />
+      <File FileName="Assignment_2/Account.cs" Line="119" Column="14" />
+      <File FileName="Assignment_2/Customer.cs" Line="39" Column="1" />
+      <File FileName="Assignment_2/Type1Acc.cs" Line="36" Column="13" />
+      <File FileName="Assignment_2/Type2Acc.cs" Line="34" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Assignment 1/Assignment_1/Assignment_1/Program.cs" line="14" offsetX="1102" offsetY="195" expression="phoneNumber" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Assignment__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
