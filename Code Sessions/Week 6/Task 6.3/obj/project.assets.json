@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "/Users/benjamin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.3/Task 6.3.csproj",
+      "projectName": "Task 6.3",
+      "projectPath": "/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.3/Task 6.3.csproj",
+      "packagesPath": "/Users/benjamin/.nuget/packages/",
+      "outputPath": "/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.3/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/benjamin/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

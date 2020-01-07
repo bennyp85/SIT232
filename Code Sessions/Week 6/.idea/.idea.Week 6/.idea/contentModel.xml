@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Task 6.1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Circle.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Task 6.1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Rectangle.cs" t="Include" />
+        <e p="Shape.cs" t="Include" />
+        <e p="Task 6.1.csproj" t="IncludeRecursive" />
+        <e p="Triangle.cs" t="Include" />
+      </e>
+      <e p="Task 6.3" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Task 6.3.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Person.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Rental.cs" t="Include" />
+        <e p="RentalByDay.cs" t="Include" />
+        <e p="RentalByKm.cs" t="Include" />
+        <e p="Task 6.3.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Week 6.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Week 6.-1180426909.00" t="ExcludeRecursive" />
+  </component>
+</project>

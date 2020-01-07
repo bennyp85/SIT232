@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="454582cf-6493-4b36-9516-b8f940598062" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/217163073.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/217163073_Assignment_1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment 1 - Description.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment 1 - Rubric.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/.vs/Assignment_1/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/.vs/Assignment_1/v15/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/.vs/Assignment_1/v15/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/.vs/Assignment_1/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Assignment_1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Customer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Type1Acc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/Type2Acc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/bin/Debug/Assignment_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/bin/Debug/Assignment_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Assignment_1/Assignment_1/obj/x86/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Planning.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/.vs/Banking/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/.vs/Banking/v15/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/.vs/Banking/v15/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/Banking.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/Customer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/Type1Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/Type2Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/bin/Debug/netcoreapp2.0/Banking.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/bin/Debug/netcoreapp2.0/Banking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/bin/Debug/netcoreapp2.0/Banking.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/bin/Debug/netcoreapp2.0/Banking.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/bin/Debug/netcoreapp2.0/Banking.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Banking.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Banking.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Banking.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/Debug/netcoreapp2.0/Banking.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Solution1/Banking/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/217163073 Assignment 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment 2 - Description.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment 2 - Rubric.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/.vs/Assignment_2/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Assignment_2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Customer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Menus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Type1Acc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Type2Acc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/Validation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/bin/Debug/Assignment_2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/bin/Debug/Assignment_2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/bin/Debug/accounts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/bin/Debug/customers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.pdb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1V3GubmDDA8DOJ9ae4o75FKbAgR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454582cf-6493-4b36-9516-b8f940598062" name="Default Changelist" comment="" />
+      <created>1576474588880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576474588880</updated>
+      <workItem from="1576474590778" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

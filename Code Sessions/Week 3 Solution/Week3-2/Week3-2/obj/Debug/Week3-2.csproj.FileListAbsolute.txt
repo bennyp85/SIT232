@@ -1,0 +1,6 @@
+H:\SIT232-T1-17\WK3\Week 3 Solution\Week3-2\Week3-2\bin\Debug\Week3-2.exe.config
+H:\SIT232-T1-17\WK3\Week 3 Solution\Week3-2\Week3-2\bin\Debug\Week3-2.exe
+H:\SIT232-T1-17\WK3\Week 3 Solution\Week3-2\Week3-2\bin\Debug\Week3-2.pdb
+H:\SIT232-T1-17\WK3\Week 3 Solution\Week3-2\Week3-2\obj\Debug\Week3-2.csprojResolveAssemblyReference.cache
+H:\SIT232-T1-17\WK3\Week 3 Solution\Week3-2\Week3-2\obj\Debug\Week3-2.exe
+H:\SIT232-T1-17\WK3\Week 3 Solution\Week3-2\Week3-2\obj\Debug\Week3-2.pdb

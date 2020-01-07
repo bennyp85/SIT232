@@ -1,0 +1,11 @@
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/bin/Debug/netcoreapp3.0/Task 6.1
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/bin/Debug/netcoreapp3.0/Task 6.1.deps.json
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/bin/Debug/netcoreapp3.0/Task 6.1.runtimeconfig.json
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/bin/Debug/netcoreapp3.0/Task 6.1.runtimeconfig.dev.json
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/bin/Debug/netcoreapp3.0/Task 6.1.dll
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/bin/Debug/netcoreapp3.0/Task 6.1.pdb
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/obj/Debug/netcoreapp3.0/Task 6.1.csprojAssemblyReference.cache
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/obj/Debug/netcoreapp3.0/Task 6.1.AssemblyInfoInputs.cache
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/obj/Debug/netcoreapp3.0/Task 6.1.AssemblyInfo.cs
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/obj/Debug/netcoreapp3.0/Task 6.1.dll
+/Users/benjamin/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Code Sessions/Week 6/Task 6.1/obj/Debug/netcoreapp3.0/Task 6.1.pdb
