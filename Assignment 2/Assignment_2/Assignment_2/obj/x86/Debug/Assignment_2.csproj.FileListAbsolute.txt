@@ -1,5 +1,0 @@
-/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 2/Assignment_2/Assignment_2/bin/Debug/Assignment_2.exe
-/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 2/Assignment_2/Assignment_2/bin/Debug/Assignment_2.pdb
-/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.csproj.CoreCompileInputs.cache
-/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.exe
-/Users/ben/Google Drive/Deakin Units/2018/T1/SIT232 Object Oriented Development/Assignment 2/Assignment_2/Assignment_2/obj/x86/Debug/Assignment_2.pdb
