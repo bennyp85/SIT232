@@ -6,7 +6,9 @@ namespace Task_8._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TechEx techEx1 = new TechEx("programming");
+            PublishingEx publishingEx1 = new PublishingEx("editor");
+            
         }
     }
 }
