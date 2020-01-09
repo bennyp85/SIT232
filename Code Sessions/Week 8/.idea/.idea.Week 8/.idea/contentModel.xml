@@ -14,9 +14,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
-        <e p="PublishingEx.cs" t="Include" />
         <e p="Task 8.1.csproj" t="IncludeRecursive" />
-        <e p="TechEx.cs" t="Include" />
       </e>
       <e p="Week 8.sln" t="IncludeFlat" />
     </e>
