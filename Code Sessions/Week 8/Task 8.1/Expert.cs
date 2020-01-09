@@ -2,11 +2,19 @@ namespace Task_8._1
 {
     public class Expert
     {
-        public Expert(string techField, string pubField, string project)
+        public Expert(string name, string techField, string pubField, string project)
         {
+            _Name = name;
             _TechField = techField;
             _PubField = pubField;
             _Project = project;
+        }
+
+        private string _Name;
+        public string Name
+        {
+            get => _Name;
+            set => _Name = value;
         }
 
         private string _TechField;
